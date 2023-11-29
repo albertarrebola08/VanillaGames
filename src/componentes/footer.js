@@ -1,3 +1,4 @@
 export const footer = {
-    template: `footer`
+  template: 'footer'
+
 }
